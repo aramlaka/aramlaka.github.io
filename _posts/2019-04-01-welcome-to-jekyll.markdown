@@ -14,7 +14,5 @@ end
 #=> prints 'Hi, Akhil' to STDOUT.
 {% endhighlight %}
 
-Now recruiters, please dont spam my inbox all at once. 
-
 I see this as a source of motivation and things to come. 
 When I have something interesting to say I will say it here!
