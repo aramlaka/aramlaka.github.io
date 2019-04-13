@@ -10,7 +10,6 @@ Here is what 4 years of university and 1 year of work experience have netted me.
 {% highlight python %}
 def print_hi(name)
   print(f"Hi, {name}")
-end
 
 print_hi('Akhil') #=> prints 'Hi, Akhil' to STDOUT.
 {% endhighlight %}
