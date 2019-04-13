@@ -9,9 +9,10 @@ Here is what 4 years of university and 1 year of work experience have netted me.
 
 {% highlight python %}
 def print_hi(name)
-  print("Hi", name)
+  print(f"Hi, {name}")
 end
-#=> prints 'Hi, Akhil' to STDOUT.
+
+print_hi('Akhil') #=> prints 'Hi, Akhil' to STDOUT.
 {% endhighlight %}
 
 I see this as a source of motivation and things to come. 
